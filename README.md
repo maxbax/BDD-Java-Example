@@ -4,7 +4,7 @@ An example for parsing and testing a site with BDD (Behavior-Driven Development)
 
 This project open a browser (with a driver to configure on *pom.xml* file) and navigate on google search page. Following the feature instructions it search a word and tests the results.
 
-Inside the same feature the project take some **screenshots** (short and complete) and at the end creates an html page with these pages.
+Inside the same feature the project take some **screenshots** (short and complete) and at the end creates an [html page](./index.html) with these pages.
 
 This example can help  you to **test a web application** and simultanesly **create an html manual** with the pages screenshots.
 
