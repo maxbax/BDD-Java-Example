@@ -4,6 +4,13 @@
 	<groupId>it.maxbax</groupId>
 	<artifactId>BDD_Test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<developers>
+		<developer>
+			<id>maxbax</id>
+			<name>Max</name>
+			<email>info@aerito.com</email>
+		</developer>
+	</developers>
 	<dependencies>
 		<dependency>
 			<groupId>info.cukes</groupId>
